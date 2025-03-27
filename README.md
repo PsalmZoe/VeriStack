@@ -101,14 +101,3 @@ VeriStack is a cutting-edge blockchain-based identity verification solution that
 
 Contributions are welcome! Please read our contributing guidelines and code of conduct.
 
-## License
-
-[Specify Your License]
-
-## Contact
-
-[Your Contact Information]
-
----
-
-**Disclaimer**: VeriStack is a decentralized identity solution. Always ensure compliance with local regulations and protect your personal information.
